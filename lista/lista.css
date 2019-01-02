@@ -1,0 +1,93 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: center;
+    padding:1%;
+}
+
+footer{
+    padding:1%;
+    position: fixed;
+    bottom: 0;
+    left:50%;
+}
+
+.logo{
+    height:3%;
+    width:6%;
+    margin-right: 5%;
+}
+
+.mainPage {
+    background-color: #008080;
+    color: white;
+    padding: 1% 2%;
+    margin-right: 5%;
+  }
+
+.mainPage a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#info{
+    color:black;
+    margin-top:1%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:35%;
+    color:transparent;
+    margin-top:1%;
+    margin-bottom:2%;
+    margin-left:1%;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    margin-left:1%;
+    margin-bottom: 5%;
+}
+
+.picture{
+    height: 10%;
+    width: 30%;
+}
+
+.text{
+    margin-left:2%;
+    margin-top:8.5%;
+}
+
+.button{
+    margin-left:2%;
+    margin-top:8.5%;
+    height: 2%;
+    width: 9%;
+}
+
+@media only screen and (max-width: 1280px) {
+    .flex{
+        flex-wrap: wrap;
+    }
+    .text{
+        margin-left:70%;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .flex{
+        flex-wrap: wrap;
+    }
+    .button{
+        margin-left:20%;
+    }
+    
+}

@@ -1,0 +1,34 @@
+{
+  "bikes": [
+    {
+      "name": "Robert",
+      "img": "https://www.cxmagazine.com/wp-content/uploads/2016/03/Hunter_1_result.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Alex",
+      "img": "https://i.pinimg.com/originals/ee/d7/ef/eed7ef3d8d39121395a398e965d57f09.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harry",
+      "img": "http://en.people.cn/NMediaFile/2018/0206/FOREIGN201802061652000007474883397.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steve",
+      "img": "http://4.bp.blogspot.com/-w_r0ZbgwmJg/UYMxb4b3ixI/AAAAAAAAE9U/rfMu04UezNs/s1600/0502131648.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Peter",
+      "img": "https://i.pinimg.com/originals/68/bd/3f/68bd3fdde46a925c87abcfa37f140090.jpg"
+    },
+    {
+      "name": "John",
+      "img": "http://wetterhorn.nl/wp-content/uploads/2013/02/NAHBS_2013_Bishop_Bikes-12.jpg",
+      "id": 6
+    }
+  ]
+}
